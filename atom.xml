@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/xiaoxinzz/xiaoxinzz.github.io</id>
+    <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-06T03:57:40.813Z</updated>
+    <updated>2021-03-06T04:45:59.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/xiaoxinzz/xiaoxinzz.github.io"/>
-    <link rel="self" href="https://github.com/xiaoxinzz/xiaoxinzz.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiaoxinzz.github.io"/>
+    <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
     <subtitle>Hello，我是张晓欣
 我是一名base深圳的交互设计师，这是我的网站，显示了部分我完成的作品。我于2019年底毕业于英国爱丁堡大学，现在供职于京东。
 
 希望你能在网页发现一些有趣好玩的东西～我会不断优化改善该网站，请期待更多更新！</subtitle>
-    <logo>https://github.com/xiaoxinzz/xiaoxinzz.github.io/images/avatar.png</logo>
-    <icon>https://github.com/xiaoxinzz/xiaoxinzz.github.io/favicon.ico</icon>
+    <logo>https://xiaoxinzz.github.io/images/avatar.png</logo>
+    <icon>https://xiaoxinzz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 张晓欣</rights>
     <entry>
         <title type="html"><![CDATA[文章一]]></title>
-        <id>https://github.com/xiaoxinzz/xiaoxinzz.github.io/post/wen-zhang-yi/</id>
-        <link href="https://github.com/xiaoxinzz/xiaoxinzz.github.io/post/wen-zhang-yi/">
+        <id>https://xiaoxinzz.github.io/post/wen-zhang-yi/</id>
+        <link href="https://xiaoxinzz.github.io/post/wen-zhang-yi/">
         </link>
         <updated>2021-02-28T10:32:47.000Z</updated>
         <content type="html"><![CDATA[<h2 id="问题定位">问题定位</h2>
 <p><strong>商家在选择视频模板的时候遇到困难</strong><br>
-<img src="https://github.com/xiaoxinzz/xiaoxinzz.github.io/post-images/1614999387682.png" alt="" loading="lazy"></p>
+<img src="https://xiaoxinzz.github.io/post-images/1614999387682.png" alt="" loading="lazy"></p>
 <p><strong>商家不知道如何制作视频</strong></p>
 <h2 id="确认目标">确认目标</h2>
 <h2 id="设计落地">设计落地</h2>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/xiaoxinzz/xiaoxinzz.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/xiaoxinzz/xiaoxinzz.github.io/post/hello-gridea/">
+        <id>https://xiaoxinzz.github.io/post/hello-gridea/</id>
+        <link href="https://xiaoxinzz.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
