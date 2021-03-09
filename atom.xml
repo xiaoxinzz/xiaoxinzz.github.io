@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-07T03:49:43.031Z</updated>
+    <updated>2021-03-09T06:46:59.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -13,6 +13,30 @@
     <logo>https://xiaoxinzz.github.io/images/avatar.png</logo>
     <icon>https://xiaoxinzz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 张晓欣</rights>
+    <entry>
+        <title type="html"><![CDATA[京东羚珑-视频素材支持项目]]></title>
+        <id>https://xiaoxinzz.github.io/post/jing-dong-ling-long-shi-pin-su-cai-zhi-chi-xiang-mu/</id>
+        <link href="https://xiaoxinzz.github.io/post/jing-dong-ling-long-shi-pin-su-cai-zhi-chi-xiang-mu/">
+        </link>
+        <updated>2021-03-08T04:18:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="京东羚珑-视频素材支持项目">京东羚珑-视频素材支持项目</h2>
+<p>为应对主图视频审核变更（全面禁止图片拼接类视频），以及优化羚珑视频展现效果，计划在主图视频场景为用户提供支持上传视频素材功能。</p>
+<h3 id="项目背景">项目背景</h3>
+<p><span style="color:#515AFF">用户调研结果</span>在2020年10月我进行的用户调研中发现，55.6%的用户期望有【视频素材拼接】功能，位列第一<br>
+<span style="color:#515AFF">审核规则变更</span>在2020年4月主图视频审核规则变更：全面禁止图片拼接类低质量视频<br>
+<span style="color:#515AFF">优化视频效果</span>进一步优化羚珑视频的结果表现，提高视频展示质量</p>
+<h3 id="项目目标">项目目标</h3>
+<p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615203958279.png" alt="" loading="lazy"></p>
+<h3 id="项目难点">项目难点</h3>
+<p><span style="color:#515AFF">时间紧张</span>2020年10月底开始做需求调研，1月初需要完成开发并上线<br>
+<span style="color:#515AFF">技术限制</span>涉及前后台编辑器的改造，需要对视频进行实时渲染，开发预研难度大<br>
+<span style="color:#515AFF">交互复杂</span>涉及前后台编辑器的改造，交互较为复杂，并且需要支持后续视频素材编辑能力拓展</p>
+<h3 id="应对策略">应对策略</h3>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615263602596.png" alt="" loading="lazy"></figure>
+<h3 id="目标用户">目标用户</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京东羚珑-主图视频项目优化]]></title>
         <id>https://xiaoxinzz.github.io/post/wen-zhang-yi/</id>
