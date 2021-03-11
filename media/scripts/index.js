@@ -2,6 +2,7 @@ $(function($) {
   var $detailPage = $('#postContainer')
   var $postFixedNavs = $('#postFixedNavs')
   var dontShowMenu = $('#dontShowMenu').length > 0
+  var dontShowPostTitle = $('#dontShowPostTitle').length > 0
 
   if (!dontShowMenu && $detailPage.length > 0 && $postFixedNavs.length > 0) {
     var postTitles = []
@@ -27,8 +28,10 @@ $(function($) {
       }
     })
   } else {
-    if ($postFixedNavs.length) {
-      $postFixedNavs[0].style.display = 'none !important'
-    }
+    $postFixedNavs.hide()
+  }
+
+  if (dontShowPostTitle && $detailPage.length) {
+    $detailPage.find('.post-title, .post-info').hide()
   }
 })
