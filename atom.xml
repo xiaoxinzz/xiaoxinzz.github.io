@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-11T12:35:14.301Z</updated>
+    <updated>2021-03-12T02:13:00.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -13,6 +13,46 @@
     <logo>https://xiaoxinzz.github.io/images/avatar.png</logo>
     <icon>https://xiaoxinzz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 张晓欣</rights>
+    <entry>
+        <title type="html"><![CDATA[Swarm Feast]]></title>
+        <id>https://xiaoxinzz.github.io/post/swarm-feast/</id>
+        <link href="https://xiaoxinzz.github.io/post/swarm-feast/">
+        </link>
+        <updated>2021-03-11T13:05:22.000Z</updated>
+        <content type="html"><![CDATA[<p>内容内容</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大唐无双手游]]></title>
+        <id>https://xiaoxinzz.github.io/post/da-tang-wu-shuang-shou-you/</id>
+        <link href="https://xiaoxinzz.github.io/post/da-tang-wu-shuang-shou-you/">
+        </link>
+        <updated>2021-03-11T12:39:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="项目介绍">项目介绍</h2>
+<p>《大唐无双》唯美版是网易大唐无双品牌的战斗MMO作品。游戏呈现了一个绚丽唯美的新国风武侠大世界，玩家化身高颜值主角，携手闯荡江湖，在生死相搏的阵营冲突中，体验纯粹战斗的乐趣。</p>
+<div style="margin-top:40px"></div>
+<h2 id="我负责的模块">我负责的模块</h2>
+<p>我是2018年3月-2018年7月在网易大唐无双项目组实习。主要参与设计的界面：节日活动界面、精灵系统界面、红颜系统等。</p>
+<h2 id="节日活动界面">节日活动界面</h2>
+<p>在实习期间，输出了端午节、七夕节和世界杯等活动界面设计方案。以下介绍如何设计节日界面，既营造节日氛围，同时又能够提供各个节日的玩法内容。</p>
+<h3 id="需求提炼">需求提炼</h3>
+<p>一般的活动需求主要是分为玩家和产品的需求。对应玩家和产品的需求，设计师有不同的设计目标和内容。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615466929078.png" alt="" loading="lazy"></p>
+<p>活动主题一般由策划来给出。在这一步要做的就是提炼策划给到的需求，在活动主题上，策划通常都给出比较抽象的感官词汇，甚至有的时候没有。这时候通常需要设计师去进行特色的自主延伸。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615466940324.png" alt="" loading="lazy"></p>
+<h3 id="设定情境及整体布局">设定情境及整体布局</h3>
+<p>根据关键词的指引，关联出更多的关键词图片，由此去做筛选与精简。先确定整个活动界面氛围的营造，然后思考如何把活动内容融入节日氛围当中。活动内容展示应该展示活动时间、玩法、奖励，以及提供活动入口。</p>
+<h4 id="提取意象">提取意象</h4>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615467538925.png" alt="" loading="lazy"></figure>
+<h3 id="效果展示">效果展示</h3>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615467772874.png" alt="" loading="lazy"></figure>
+<h2 id="红颜系统">红颜系统</h2>
+<p>红颜系统是解锁不同美女NPC，就解锁不同剧情玩法的系统。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615467845335.png" alt="" loading="lazy"></p>
+<h2 id="精灵系统">精灵系统</h2>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615467872891.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wildlife Adventure]]></title>
         <id>https://xiaoxinzz.github.io/post/wildlife-adventure/</id>
