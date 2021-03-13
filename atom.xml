@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-13T05:13:36.411Z</updated>
+    <updated>2021-03-13T09:17:31.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -84,7 +84,8 @@
         <link href="https://xiaoxinzz.github.io/post/jing-dong-ling-long-shi-pin-su-cai-zhi-chi-xiang-mu/">
         </link>
         <updated>2021-03-05T04:18:16.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="京东羚珑-视频素材支持项目">京东羚珑-视频素材支持项目</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="京东羚珑-视频素材支持项目">京东羚珑-视频素材支持项目</h2>
 <p>为应对主图视频审核变更（全面禁止图片拼接类视频），以及优化羚珑视频展现效果，计划在主图视频场景为用户提供支持上传视频素材功能。</p>
 <h2 id="项目背景">项目背景</h2>
 <p><span style="color:#515AFF">用户调研结果</span>在2020年10月我进行的用户调研中发现，55.6%的用户期望有【视频素材拼接】功能，位列第一<br>
@@ -137,7 +138,8 @@
         <link href="https://xiaoxinzz.github.io/post/jing-dong-ling-long-shi-pin-xiang-mu-jie-kou-fu-neng/">
         </link>
         <updated>2021-03-04T12:31:28.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="京东羚珑-x-内部事业群赋能">京东羚珑 X 内部事业群赋能</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="京东羚珑-x-内部事业群赋能">京东羚珑 X 内部事业群赋能</h2>
 <p>羚珑团队希望加深内部感知，希望能够通过羚珑的能力解决京东零售业务流程上的痛点，实现设计降低成本。</p>
 <div style=“height:40px”></div>
 <h2 id="视频项目接口赋能">视频项目接口赋能</h2>
@@ -168,7 +170,8 @@
         <link href="https://xiaoxinzz.github.io/post/wildlife-adventure/">
         </link>
         <updated>2021-03-03T13:03:02.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="概览">概览</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="概览">概览</h2>
 <p><span style="color:#515AFF">如何设计一个儿童适用的动物园参观体验？</span><br>
 --如何通过以用户为中心的设计，为动物园的儿童参观者创造新颖的体验，从而实现有意义的参与并且鼓励儿童多关注生态环境和保护生态环境的参观体验？</p>
 <div style="margin-top:40px"></div>
@@ -230,7 +233,8 @@
         <link href="https://xiaoxinzz.github.io/post/da-tang-wu-shuang-shou-you/">
         </link>
         <updated>2021-03-03T12:39:59.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="项目介绍">项目介绍</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="项目介绍">项目介绍</h2>
 <p>《大唐无双》唯美版是网易大唐无双品牌的战斗MMO作品。游戏呈现了一个绚丽唯美的新国风武侠大世界，玩家化身高颜值主角，携手闯荡江湖，在生死相搏的阵营冲突中，体验纯粹战斗的乐趣。</p>
 <div style="margin-top:40px"></div>
 <h2 id="我负责的模块">我负责的模块</h2>
@@ -261,13 +265,16 @@
         <link href="https://xiaoxinzz.github.io/post/swarm-feast/">
         </link>
         <updated>2021-03-02T13:05:22.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="项目介绍">项目介绍</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="项目介绍">项目介绍</h2>
 <p>该项目旨在创建一个交互装置，允许用户发现和探索爱丁堡艺术节的相关节目信息，既可以向人们提供有意义的节目信息，又可以吸引更多的游客来探索节日中的演出。</p>
 <div style="margin-top:40px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>我们的目标用户是来欣赏爱丁堡国际音乐节的表演和表演的人，无论是当地人还是来自城市以外的游客。通常，我们假定他们对自己喜欢的节目类型具有偏爱，尽管这不一定是必需的。我们的目标是设计一种更好的方法，让观众找到符合其兴趣的节目信息，并帮助他们根据这些信息做出决定。</p>
+<div style="margin-top:40px"></div>
 <h2 id="设计过程">设计过程</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615540932512.png" alt="" loading="lazy"></figure>
+<div style="margin-top:40px"></div>
 <h2 id="要解决的问题">要解决的问题</h2>
 <p>当前，观众了解街头表演的主要方法是海报和传单。</p>
 <p><span style="color:#515AFF">海报：缺乏描述性信息；数量众多，视觉过载</span><br>
@@ -276,6 +283,22 @@
 传单包含有关演出的更多详细信息，并且通常按体裁和字母顺序以更有序的方式组织。但是传单只印数有限，缺乏海报所具有的视觉特质。</p>
 <p>这些导致参观者在选择哪种表演最适合他们时感到焦虑。他们不可能参加所有的演出，因此拥有帮助他们做出正确决定的工具很重要。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615540850884.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h2 id="关键探索元素">关键探索元素</h2>
+<p>我们小组项目的三个主题是节目评估，社交互动和数据探索。<br>
+我们要在这个项目中探索的一些方向是：<br>
+-节日期间的一个访客行为会如何影响另一个？<br>
+-如何在节日期间收集数据，可视化并从中获取见解？<br>
+-我们如何确定演出的受欢迎程度？<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615626228060.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h2 id="建模与3d打印">建模与3D打印</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615626621650.png" alt="" loading="lazy"></figure>
+<div style="margin-top:40px"></div>
+<h2 id="技术开发原理">技术开发原理</h2>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615626636780.png" alt="" loading="lazy"></figure>
+<div style="margin-top:40px"></div>
+<h2 id="视频演示">视频演示</h2>
 ]]></content>
     </entry>
     <entry>
@@ -284,7 +307,8 @@
         <link href="https://xiaoxinzz.github.io/post/xiang-gang-jie-dao-ming-ming/">
         </link>
         <updated>2021-03-01T03:57:47.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="项目介绍">项目介绍</h2>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="项目介绍">项目介绍</h2>
 <p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
 <div style="margin-top:40px"></div>
 <h2 id="目标用户">目标用户</h2>
