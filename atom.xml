@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-13T09:17:31.171Z</updated>
+    <updated>2021-03-13T10:45:15.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -299,6 +299,7 @@
 <figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615626636780.png" alt="" loading="lazy"></figure>
 <div style="margin-top:40px"></div>
 <h2 id="视频演示">视频演示</h2>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hK4y1D7Xv&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"；style="width:100%;"> </iframe>
 ]]></content>
     </entry>
     <entry>
@@ -313,6 +314,16 @@
 <div style="margin-top:40px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
+<div style="margin-top:40px"></div>
+<h2 id="设计过程">设计过程</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615628321091.png" alt="" loading="lazy"></figure>
+<div style="margin-top:40px"></div>
+<h2 id="关键问题">关键问题</h2>
+<p>街道名称讲述了生活的故事。他们告诉我们一些关于当地人如何工作和生活。他们信奉什么，不相信什么。每个街道的名字都揭示了香港人民的生活和态度。几个世纪以来，香港已经发生了巨大变化。了解街道命名的由来有助于了解香港市民喜欢记住的事情和他们已经遗忘了的事情。香港街道的历史变化和以男性和女性的命名的街道数量都可以对这个城市的特性进行窥探。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615629068833.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h2 id="界面设计">界面设计</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615629150332.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
