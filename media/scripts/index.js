@@ -15,7 +15,8 @@ $(function($) {
     if (postTitles.length) {
       for (var index = postTitles.length - 1; index >= 0; index--) {
         var element = postTitles[index];
-        $postFixedNavs.prepend('<a href="#'+ element[0] +'" class="post-nav-item '+ element[1] +'">'+element[0]+'<a>')
+        var elemTarget = element[0].replaceAll(' ', '-').toLowerCase()
+        $postFixedNavs.prepend('<a href="#'+ elemTarget +'" class="post-nav-item '+ element[1] +'">'+element[0]+'<a>')
       }
     }
 
