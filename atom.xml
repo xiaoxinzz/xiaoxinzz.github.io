@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-14T02:20:59.788Z</updated>
+    <updated>2021-03-14T03:56:10.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -14,14 +14,19 @@
     <icon>https://xiaoxinzz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 张晓欣</rights>
     <entry>
-        <title type="html"><![CDATA[京东羚珑-主图视频项目优化]]></title>
+        <title type="html"><![CDATA[京东羚珑-主图视频优化项目]]></title>
         <id>https://xiaoxinzz.github.io/post/wen-zhang-yi/</id>
         <link href="https://xiaoxinzz.github.io/post/wen-zhang-yi/">
         </link>
         <updated>2021-03-31T10:32:47.000Z</updated>
-        <content type="html"><![CDATA[<div style="color: red;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">什么是京东羚珑平台</div>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<div style="margin-top:50px"></div>
+<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">什么是京东羚珑平台</div>
 京东羚珑平台是一个提供一站式在线智能设计服务平台，包括一键抠图、主图设计、主图视频、创意广告、店铺装修、互动营销等内容。
-<h2 id="京东羚珑-主图视频项目优化">京东羚珑-主图视频项目优化</h2>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
+<h2 id="主图视频优化项目">主图视频优化项目</h2>
 <p>该项目优化内容主要是给主图视频模板新增故事线脚本功能。故事线：指的是给用户提供贴合业务及行业场景的脚本，帮助用户轻松完成视频制作。新增故事线脚本功能，让用户有更加清晰的场景化构建视频概念，从而引导用户快速生成视频结果。</p>
 <div class="post-meta" style="display: flex;line-height:40px;">
     <style>.post-meta-box{ flex: 1;}</style>
@@ -31,20 +36,23 @@
     </div>
     <div class="post-meta-box post-meta-timeline">
     <strong>Timeline</strong>
-    <span>产品经理、交互设计</span>
+    <span>2020.05-2020.08</span>
     </div>
     <div class="post-meta-box post-meta-link-view">
      <style>a.pdf-link:hover {border: 2px solid blue !important;}</style>
-    <a class="pdf-link" style="width: 120px;border: 2px solid #9090ec;display: inline-block;text-align: center;font-size:14px;" target="_blank" href=" ">浏览线上网页</a >
+    <a class="pdf-link" style="width: 120px;border: 2px solid #9090ec;display: inline-block;text-align: center;font-size:14px;" target="_blank" href="https://ling.jd.com/design/video/kv-story ">浏览线上网页</a >
     </div>
 </div>
+<div style="margin-top:50px"></div>
 <h2 id="问题定位">问题定位</h2>
 <p><strong>商家在选择视频模板的时候遇到困难</strong><br>
 <img src="https://xiaoxinzz.github.io/post-images/1614999387682.png" alt="" loading="lazy"></p>
 <p><strong>商家不知道如何制作视频</strong></p>
+<div style="margin-top:40px"></div>
 <h2 id="确认目标">确认目标</h2>
+<div style="margin-top:50px"></div>
 <h2 id="设计落地">设计落地</h2>
-<h3 id="目标一视频模板突出商品重点信息">目标一：视频模板突出商品重点信息</h3>
+<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">目标一：视频模板突出商品重点信息</div>
 <h4 id="脚本设计贴合品类">脚本设计贴合品类</h4>
 <h5 id="step1梳理信息架构">Step1：梳理信息架构</h5>
 <p>因不同的品类，主图视频展示信息差异较大，不同品类的商家对主图视频的信息框架存在不同的诉求。于是我根据品类梳理主图视频的信息结构，根据不同品类撰写脚本，方便商家使用。</p>
@@ -53,29 +61,37 @@
 </blockquote>
 <p>示例：提炼手机主图视频脚本<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615081770783.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h5 id="step2整理出常见信息模块">Step2：整理出常见信息模块</h5>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615081887829.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h5 id="step3根据品类特性标注出主图视频信息内容重点">Step3：根据品类特性标注出主图视频信息内容重点</h5>
 <p>---这一块是左右结构的，markdown不支持编写</p>
+<div style="margin-top:50px"></div>
 <h4 id="脚本内容差异化">脚本内容差异化</h4>
 <p>我把商家划分为有比较丰富素材的用户、有比较基础素材的用户。在组织脚本逻辑的时候，分为了核心精简和丰富全面的两种组织方式。在脚本设计中，我根据拥有素材的数量差异进行脚本内容差异化设计。<br>
 ---此处插入视频案例，无法使用markdown编写</p>
-<h3 id="目标二凸显视频叙事脉络">目标二：凸显视频叙事脉络</h3>
+<div style="margin-top:50px"></div>
+<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">目标二：凸显视频叙事脉络</div>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615082035264.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h4 id="改造脚本展示布局">改造脚本展示布局</h4>
 <p>在这次的框架设计中，我把模板分拆成按照脚本展示的布局，改变之前单一的“仅展示模板名称”的布局架构，打造出具有更清晰“叙事脉络”的页面布局。在新的故事线界面上用户可以看到清晰的视频模板结构，并且能看到不同模板的差异化内容。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615082074196.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h4 id="强化关键信息">强化关键信息</h4>
 <p>我对用户所关心的决策信息进行强化，恰如其分地展示便于用户决策，同时提升用户的使用意愿。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615082122312.png" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615082141078.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="项目总结">项目总结</h2>
 <figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1615082172413.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="界面展示">界面展示</h2>
-<p><img src="https://xiaoxinzz.github.io/post-images/1615083493163.png" alt="" loading="lazy"><br>
----此处有左右结构界面展示</p>
+<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1615083493163.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="数据反馈">数据反馈</h2>
-<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1615087349684.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://xiaoxinzz.github.io/post-images/1615087349684.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -85,28 +101,49 @@
         </link>
         <updated>2021-03-05T04:18:16.000Z</updated>
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
-<h2 id="京东羚珑-视频素材支持项目">京东羚珑-视频素材支持项目</h2>
+<h2 id="视频素材支持项目">视频素材支持项目</h2>
 <p>为应对主图视频审核变更（全面禁止图片拼接类视频），以及优化羚珑视频展现效果，计划在主图视频场景为用户提供支持上传视频素材功能。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>产品经理、交互设计</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2020.11-2021.01</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
 <h2 id="项目背景">项目背景</h2>
-<p><span style="color:#515AFF">用户调研结果</span>在2020年10月我进行的用户调研中发现，55.6%的用户期望有【视频素材拼接】功能，位列第一<br>
+<p><span style="color:#515AFF">用户调研结果</span>在2020年10月我进行的用户调研中发现，55.6%的用户期望有视频素材拼接功能，位列第一<br>
 <span style="color:#515AFF">审核规则变更</span>在2020年4月主图视频审核规则变更：全面禁止图片拼接类低质量视频<br>
 <span style="color:#515AFF">优化视频效果</span>进一步优化羚珑视频的结果表现，提高视频展示质量</p>
+<div style="margin-top:50px"></div>
 <h2 id="项目目标">项目目标</h2>
 <p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615203958279.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="项目难点">项目难点</h2>
 <p><span style="color:#515AFF">时间紧张</span>2020年10月底开始做需求调研，1月初需要完成开发并上线<br>
 <span style="color:#515AFF">技术限制</span>涉及前后台编辑器的改造，需要对视频进行实时渲染，开发预研难度大<br>
 <span style="color:#515AFF">交互复杂</span>涉及前后台编辑器的改造，交互较为复杂，并且需要支持后续视频素材编辑能力拓展</p>
+<div style="margin-top:40px"></div>
 <h2 id="应对策略">应对策略</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615378065164.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>这个不清楚是用图片还是代码写</p>
-<p>##设计策略<br>
-<img src="https://xiaoxinzz.github.io/post-images/1615379223622.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h2 id="设计策略">设计策略</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615379223622.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="可能的支持方案">可能的支持方案</h2>
 <p>看看这个用代码写还是用图片<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379289340.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="最终支持方案">最终支持方案</h2>
 <p><span style="color:#515AFF" font-size:26px>Step 1：提供风格较通用的「支持视频素材」模板给用户选择，这批模板中的部分场景/坑位专为适配视频素材设计</span><br>
 支持替换视频、视频素材只支持连续片段、视频支持简单调整</p>
@@ -115,20 +152,25 @@
 <p><span style="color:#515AFF" font-size:26px>Step 3：让视频模板中的部分场景支持视频素材/图片素材之间的切换</span><br>
 支持两种素材模式切换选择<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379341234.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="流程图">流程图</h2>
 <p>如果这个框可以用动画画出来，效果就更好了。然而这个应该需要js<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379424266.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="前台编辑器-替换视频素材">前台编辑器-替换视频素材</h2>
 <p>用户可以通过本地上传或者素材库的视频进行视频素材的替换<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379081679.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379086525.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="前台编辑器-视频编辑">前台编辑器-视频编辑</h2>
 <p>用户可以对视频片段进行简单的编辑，例如裁剪功能。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379022260.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379028114.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="后台编辑器-适配">后台编辑器-适配</h2>
 <p><img src="https://xiaoxinzz.github.io/post-images/1615377881983.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615377887064.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="界面展示">界面展示</h2>
 ]]></content>
     </entry>
@@ -139,28 +181,47 @@
         </link>
         <updated>2021-03-04T12:31:28.000Z</updated>
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<div style="margin-top:50px"></div>
 <h2 id="京东羚珑-x-内部事业群赋能">京东羚珑 X 内部事业群赋能</h2>
 <p>羚珑团队希望加深内部感知，希望能够通过羚珑的能力解决京东零售业务流程上的痛点，实现设计降低成本。</p>
-<div style=“height:40px”></div>
+<div style="margin-top:50px"></div>
 <h2 id="视频项目接口赋能">视频项目接口赋能</h2>
 <p>京东数科规划为新上线的购物平台增加主图视频的展示，希望通过羚珑实现批量、智能生成主图视频，从而提升商品的表现，促进下单。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>产品经理</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2020.11-2021.01</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
 <h3 id="项目背景">项目背景</h3>
 <p>业务方希望羚珑主图视频能够提供接口，该接口能够支持通过传入sku、尺寸等参数，获得定制的、符合sku属性的视频结果，从而可帮助业务方快速生成大批量的主图视频。</p>
-<div style=“height:40px”></doc>
+<div style="margin-top:50px"></div>
 <h3 id="项目难点">项目难点</h3>
 <p>如何制定接口生成规则<br>
 <span style="color:#515AFF">生成视频需要图片，图片从哪里来？</span><br>
 <span style="color:#515AFF">拉取的图片质量参差不齐，如何筛选？</span><br>
 <span style="color:#515AFF">筛选完图片如何生成主图视频？</span></p>
+<div style="margin-top:50px"></div>
 <h3 id="整体流程-图片筛选">整体流程-图片筛选</h3>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615380348918.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h3 id="图片筛选规则">图片筛选规则</h3>
 <p><img src="https://xiaoxinzz.github.io/post-images/1615380535850.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615380900036.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615381078372.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615381118504.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h3 id="筛选结果">筛选结果</h3>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615381239314.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h3 id="整体流程-智能匹配素材">整体流程-智能匹配素材</h3>
 ]]></content>
     </entry>
@@ -177,6 +238,21 @@
 <div style="margin-top:40px"></div>
 <h2 id="最终概念">最终概念</h2>
 <p>Wildlife Adventure是为10-12岁的儿童设计的体验，通过增强现实的技术，该体验能够使孩子发现有关动物的新信息，并获得关于人类行为如何影响不同生态系统的崭新视角。</p>
+<div style="margin-top:50px"></div>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>个人项目</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2019.05-2019.08</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
 <h2 id="项目概述">项目概述</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615450017956.png" alt="" loading="lazy"></figure>
 <h2 id="设计过程">设计过程</h2>
@@ -236,25 +312,45 @@
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
 <h2 id="项目介绍">项目介绍</h2>
 <p>《大唐无双》唯美版是网易大唐无双品牌的战斗MMO作品。游戏呈现了一个绚丽唯美的新国风武侠大世界，玩家化身高颜值主角，携手闯荡江湖，在生死相搏的阵营冲突中，体验纯粹战斗的乐趣。</p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="我负责的模块">我负责的模块</h2>
 <p>我是2018年3月-2018年7月在网易大唐无双项目组实习。主要参与设计的界面：节日活动界面、精灵系统界面、红颜系统等。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>交互设计</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2018.03-2018.07</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
 <h2 id="节日活动界面">节日活动界面</h2>
 <p>在实习期间，输出了端午节、七夕节和世界杯等活动界面设计方案。以下介绍如何设计节日界面，既营造节日氛围，同时又能够提供各个节日的玩法内容。</p>
+<div style="margin-top:50px"></div>
 <h3 id="需求提炼">需求提炼</h3>
 <p>一般的活动需求主要是分为玩家和产品的需求。对应玩家和产品的需求，设计师有不同的设计目标和内容。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615466929078.png" alt="" loading="lazy"></p>
 <p>活动主题一般由策划来给出。在这一步要做的就是提炼策划给到的需求，在活动主题上，策划通常都给出比较抽象的感官词汇，甚至有的时候没有。这时候通常需要设计师去进行特色的自主延伸。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615466940324.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h3 id="设定情境及整体布局">设定情境及整体布局</h3>
 <p>根据关键词的指引，关联出更多的关键词图片，由此去做筛选与精简。先确定整个活动界面氛围的营造，然后思考如何把活动内容融入节日氛围当中。活动内容展示应该展示活动时间、玩法、奖励，以及提供活动入口。</p>
+<div style="margin-top:50px"></div>
 <h4 id="提取意象">提取意象</h4>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615467538925.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h3 id="效果展示">效果展示</h3>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615467772874.png" alt="" loading="lazy"></figure>
+<div style="margin-top:50px"></div>
 <h2 id="红颜系统">红颜系统</h2>
 <p>红颜系统是解锁不同美女NPC，就解锁不同剧情玩法的系统。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615467845335.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
 <h2 id="精灵系统">精灵系统</h2>
 <figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615467872891.png" alt="" loading="lazy"></figure>
 ]]></content>
@@ -268,13 +364,26 @@
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
 <h2 id="项目介绍">项目介绍</h2>
 <p>该项目旨在创建一个交互装置，允许用户发现和探索爱丁堡艺术节的相关节目信息，既可以向人们提供有意义的节目信息，又可以吸引更多的游客来探索节日中的演出。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>用户调研、交互设计</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2019.02-2019.05</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
 <div style="margin-top:40px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>我们的目标用户是来欣赏爱丁堡国际音乐节的表演和表演的人，无论是当地人还是来自城市以外的游客。通常，我们假定他们对自己喜欢的节目类型具有偏爱，尽管这不一定是必需的。我们的目标是设计一种更好的方法，让观众找到符合其兴趣的节目信息，并帮助他们根据这些信息做出决定。</p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="设计过程">设计过程</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615540932512.png" alt="" loading="lazy"></figure>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="要解决的问题">要解决的问题</h2>
 <p>当前，观众了解街头表演的主要方法是海报和传单。</p>
 <p><span style="color:#515AFF">海报：缺乏描述性信息；数量众多，视觉过载</span><br>
@@ -283,7 +392,7 @@
 传单包含有关演出的更多详细信息，并且通常按体裁和字母顺序以更有序的方式组织。但是传单只印数有限，缺乏海报所具有的视觉特质。</p>
 <p>这些导致参观者在选择哪种表演最适合他们时感到焦虑。他们不可能参加所有的演出，因此拥有帮助他们做出正确决定的工具很重要。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615540850884.png" alt="" loading="lazy"></p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="关键探索元素">关键探索元素</h2>
 <p>我们小组项目的三个主题是节目评估，社交互动和数据探索。<br>
 我们要在这个项目中探索的一些方向是：<br>
@@ -291,13 +400,13 @@
 -如何在节日期间收集数据，可视化并从中获取见解？<br>
 -我们如何确定演出的受欢迎程度？<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615626228060.png" alt="" loading="lazy"></p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="建模与3d打印">建模与3D打印</h2>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615626621650.png" alt="" loading="lazy"></figure>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="技术开发原理">技术开发原理</h2>
 <figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615626636780.png" alt="" loading="lazy"></figure>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="视频演示">视频演示</h2>
 <iframe src="//player.bilibili.com/player.html?bvid=BV1hK4y1D7Xv&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"；style="width:100%;"> </iframe>
 ]]></content>
@@ -309,19 +418,37 @@
         </link>
         <updated>2021-03-01T03:57:47.000Z</updated>
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<div style="margin-top:40px"></div>
 <h2 id="项目介绍">项目介绍</h2>
 <p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>个人项目</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2019.02-2019.05</span>
+    </div>
+    <div class="post-meta-box post-meta-link-view">
+     <style>a.pdf-link:hover {border: 2px solid blue !important;}</style>
+    <a class="pdf-link" style="width: 120px;border: 2px solid #9090ec;display: inline-block;text-align: center;font-size:14px;" target="_blank" href="https://playground.eca.ed.ac.uk/~s1879055/streets/streets.html ">浏览线上网页</a >
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
 <div style="margin-top:40px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="设计过程">设计过程</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615628321091.png" alt="" loading="lazy"></figure>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="关键问题">关键问题</h2>
 <p>街道名称讲述了生活的故事。他们告诉我们一些关于当地人如何工作和生活。他们信奉什么，不相信什么。每个街道的名字都揭示了香港人民的生活和态度。几个世纪以来，香港已经发生了巨大变化。了解街道命名的由来有助于了解香港市民喜欢记住的事情和他们已经遗忘了的事情。香港街道的历史变化和以男性和女性的命名的街道数量都可以对这个城市的特性进行窥探。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615629068833.png" alt="" loading="lazy"></p>
-<div style="margin-top:40px"></div>
+<div style="margin-top:50px"></div>
 <h2 id="界面设计">界面设计</h2>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615629150332.png" alt="" loading="lazy"></figure>
 ]]></content>
