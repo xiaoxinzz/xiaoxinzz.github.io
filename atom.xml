@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-19T06:56:32.885Z</updated>
+    <updated>2021-03-25T13:08:09.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -27,7 +27,8 @@
 <hr>
 <div style="margin-top:40px"></div>
 <h2 id="主图视频优化项目">主图视频优化项目</h2>
-<p>该项目优化内容主要是给主图视频模板新增故事线脚本功能。故事线：指的是给用户提供贴合业务及行业场景的脚本，帮助用户轻松完成视频制作。新增故事线脚本功能，让用户有更加清晰的场景化构建视频概念，从而引导用户快速生成视频结果。</p>
+<p><img src="https://xiaoxinzz.github.io/post-images/1616675396148.png" alt="" loading="lazy"><br>
+针对较为提及较多的两个问题，提出的解决方案是新增故事线脚本功能，让用户有更加清晰的场景化构建视频概念，从而引导用户快速生成视频结果。</p>
 <div class="post-meta" style="display: flex;line-height:40px;">
     <style>.post-meta-box{ flex: 1;}</style>
     <div class="post-meta-box post-meta-role">
@@ -46,24 +47,24 @@
 <div style="margin-top:50px"></div>
 <h2 id="问题定位">问题定位</h2>
 <p><strong>商家在选择视频模板的时候遇到困难</strong><br>
-<img src="https://xiaoxinzz.github.io/post-images/1614999387682.png" alt="" loading="lazy"></p>
-<p><strong>商家不知道如何制作视频</strong></p>
+<img src="https://xiaoxinzz.github.io/post-images/1616677528112.png" alt="" loading="lazy"></p>
+<div style="margin-top:50px"></div>
+<p><strong>商家在编辑视频模板的时候遇到困难</strong><br>
+<img src="https://xiaoxinzz.github.io/post-images/1616677534536.png" alt="" loading="lazy"></p>
 <div style="margin-top:40px"></div>
-<h2 id="确认目标">确认目标</h2>
+<h2 id="需求目标">需求目标</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1616677023003.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <h2 id="设计落地">设计落地</h2>
-<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">目标一：视频模板突出商品重点信息</div>
+<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">目标一：视频模板突出品类差异</div>
 <h4 id="脚本设计贴合品类">脚本设计贴合品类</h4>
-<h5 id="step1梳理信息架构">Step1：梳理信息架构</h5>
-<p>因不同的品类，主图视频展示信息差异较大，不同品类的商家对主图视频的信息框架存在不同的诉求。于是我根据品类梳理主图视频的信息结构，根据不同品类撰写脚本，方便商家使用。</p>
-<blockquote>
-<p>参考来源：京东/淘宝线上优秀的主图视频案例 + 京东商家视觉规范的拍摄指南 → 信息结构</p>
-</blockquote>
-<p>示例：提炼手机主图视频脚本<br>
-<img src="https://xiaoxinzz.github.io/post-images/1615081770783.png" alt="" loading="lazy"></p>
+<h5 id="step1选择品类">Step1：选择品类</h5>
+<p>优先选择了主图视频覆盖率和观看率较高的品类，并按照数据分布排列优先级。最后得出来的优先的品类有：数码电器、服饰内衣、家居日用。其中时尚居家事业群表现出比较强烈的合作意向。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1616677107922.png" alt="" loading="lazy"></p>
 <div style="margin-top:50px"></div>
-<h5 id="step2整理出常见信息模块">Step2：整理出常见信息模块</h5>
-<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615081887829.png" alt="" loading="lazy"></figure>
+<h5 id="step2根据品类特性标注出主图视频信息内容重点">Step2：根据品类特性标注出主图视频信息内容重点</h5>
+<p>因不同的产品展示信息侧重点不一样，不同品类的商家对主图视频的信息框架存在不同的诉求。于是我根据品类想要凸显的点，梳理主图视频的信息结构，标注出主图视频信息内容重点，方便视觉设计师展示信息偏重，给到用户的主图视频也会根据重点信息内容进行展示。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1616677659796.png" alt="" loading="lazy"></p>
 <div style="margin-top:50px"></div>
 <h5 id="step3根据品类特性标注出主图视频信息内容重点">Step3：根据品类特性标注出主图视频信息内容重点</h5>
 <p>---这一块是左右结构的，markdown不支持编写</p>
