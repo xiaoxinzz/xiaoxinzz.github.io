@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-28T09:37:48.320Z</updated>
+    <updated>2021-03-28T09:57:33.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -130,33 +130,33 @@
 <span style="color:#515AFF">筛选完图片如何生成主图视频？</span></p>
 <div style="margin-top:100px"></div>
 <h3 id="整体流程-智能图片筛选">整体流程-智能图片筛选</h3>
-<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1616896636765.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1616925335216.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h3 id="图片筛选规则">图片筛选规则</h3>
-<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1616900554840.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1616925375881.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
-<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1616900562653.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1616925388046.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
-<figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1616898629559.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1616925398027.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
-<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1616900604437.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1616925409496.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h3 id="筛选结果">筛选结果</h3>
-<figure data-type="image" tabindex="6"><img src="https://xiaoxinzz.github.io/post-images/1616921463109.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://xiaoxinzz.github.io/post-images/1616925419345.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <h3 id="整体流程-智能匹配模板">整体流程-智能匹配模板</h3>
-<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1616923580952.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1616925428724.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
-<figure data-type="image" tabindex="8"><img src="https://xiaoxinzz.github.io/post-images/1616923701666.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://xiaoxinzz.github.io/post-images/1616925435443.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <h3 id="整体流程-图片自动置入">整体流程-图片自动置入</h3>
-<figure data-type="image" tabindex="9"><img src="https://xiaoxinzz.github.io/post-images/1616923727715.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://xiaoxinzz.github.io/post-images/1616925442645.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <h3 id="成果展示">成果展示</h3>
 <p>业务方预计接口目前在稳定调用中，目前调用量在5k+，还在继续调用中。</p>
 <div style="margin-top:50px"></div>
 <p><strong>接口文档</strong><br>
-<img src="https://xiaoxinzz.github.io/post-images/1616923796538.png" alt="" loading="lazy"></p>
+<img src="https://xiaoxinzz.github.io/post-images/1616924518218.png" alt="" loading="lazy"></p>
 <div style="margin-top:50px"></div>
 <p><strong>视频示例</strong></p>
 <div class="container" style="text-align: center;">
