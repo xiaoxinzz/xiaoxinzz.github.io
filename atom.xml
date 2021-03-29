@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-03-29T12:56:09.700Z</updated>
+    <updated>2021-03-29T12:59:12.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -405,7 +405,8 @@
 <div style="margin-top:100px"></div>
 <h2 id="概念视频">概念视频</h2>
 <p>我使用framer, sketchfab, AfterEffect和Primiere制作概念视频，使用adobeXD制作可交互原型。<br>
-<code>代码片段</code></p>
+<code>代码片段</code><br>
+<img src="https://xiaoxinzz.github.io/post-images/1617022745956.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
