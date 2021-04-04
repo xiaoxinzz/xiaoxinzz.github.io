@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-02T09:15:23.622Z</updated>
+    <updated>2021-04-04T08:46:43.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -87,11 +87,14 @@
 <img src="https://xiaoxinzz.github.io/post-images/1616927784214.png" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="6"><img src="https://xiaoxinzz.github.io/post-images/1616927792767.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
+<h2 id="交互稿">交互稿</h2>
+<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1617457014913.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
 <h2 id="界面展示">界面展示</h2>
-<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1616927801915.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://xiaoxinzz.github.io/post-images/1616927801915.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="用户及数据反馈">用户及数据反馈</h2>
-<figure data-type="image" tabindex="8"><img src="https://xiaoxinzz.github.io/post-images/1616927807750.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://xiaoxinzz.github.io/post-images/1616927807750.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 ]]></content>
     </entry>
@@ -252,7 +255,7 @@
     </div>
     <div class="post-meta-box post-meta-timeline">
     <strong>Timeline</strong>
-    <span>2020.12-2021.02</span>
+    <span>2020.11-2021.01</span>
     </div>
 </div>
 <div style="margin-top:40px"></div>
