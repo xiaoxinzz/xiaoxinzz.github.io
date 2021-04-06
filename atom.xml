@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-06T02:48:04.866Z</updated>
+    <updated>2021-04-06T06:35:00.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -128,10 +128,11 @@
 <hr>
 <div style="margin-top:40px"></div>
 <h2 id="解决方案">解决方案</h2>
-<p>羚珑侧提供接口帮助业务方快速生成大批量的主图视频，该接口方案可支持通过录入sku、尺寸等参数，获得符合sku属性的视频。</p>
+<p>羚珑侧提供接口帮助业务方快速生成大批量的主图视频，该接口方案可支持通过录入SKU、尺寸等参数，获得符合SKU属性的视频。</p>
+<p><em>注：SKU=stock keeping unit(库存量单位)，每一个商品详情页对应一个独立的SKU编码</em></p>
 <div style="margin-top:50px"></div>
 <h2 id="项目难点">项目难点</h2>
-<p>如何制定接口生成规则<br>
+<p><strong>如何制定接口生成规则</strong><br>
 <span style="color:#515AFF">拉取的图片质量参差不齐，如何筛选？</span><br>
 <span style="color:#515AFF">筛选完图片如何生成主图视频？</span></p>
 <div style="margin-top:70px"></div>
@@ -141,22 +142,22 @@
 <h2 id="图片筛选规则">图片筛选规则</h2>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1616925375881.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
-<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1616925388046.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1617678887376.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1616925398027.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
-<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1616925409496.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1617679294789.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="筛选结果">筛选结果</h2>
 <figure data-type="image" tabindex="6"><img src="https://xiaoxinzz.github.io/post-images/1616925419345.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="整体流程-智能匹配模板">整体流程-智能匹配模板</h2>
-<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1617351149302.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://xiaoxinzz.github.io/post-images/1617679650336.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <figure data-type="image" tabindex="8"><img src="https://xiaoxinzz.github.io/post-images/1616925435443.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="整体流程-图片自动置入">整体流程-图片自动置入</h2>
-<figure data-type="image" tabindex="9"><img src="https://xiaoxinzz.github.io/post-images/1616925442645.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://xiaoxinzz.github.io/post-images/1617680421496.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="成果展示">成果展示</h2>
 <p>业务方预计接口目前在稳定调用中，目前调用量在5k+，还在继续调用中。</p>
@@ -168,6 +169,10 @@
 <div class="container" style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?bvid=BV1B5411w7vy&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
 </div>
+<div style="margin-top:100px"></div>
+<h2 id="项目总结">项目总结</h2>
+<p><span style="color:#515AFF">业务合作：</span>当接触一个全新的业务的时候，需要利用公司内部和外部所有的资源进行学习，包括产品文档、交互文档和接口文档，增强对业务的了解，学习与借鉴其他人的经验。</p>
+<p><span style="color:#515AFF">项目沟通：</span>在做项目的时候需要其他部门的配合，也需要跟需求提出方进行勾兑。要注意建立良好的沟通机制，保证信息的及时传递。</p>
 <div style="margin-top:100px"></div>
 ]]></content>
     </entry>
@@ -200,7 +205,8 @@
 <div style="margin-top:50px"></div>
 <h2 id="目标用户">目标用户</h2>
 <p>方法：定性访谈<br>
-目标用户：使用过羚珑视频功能的POP商家</p>
+目标用户：使用过羚珑视频功能的POP商家<br>
+<em>注：POP指的是直接由第三方卖家发货的经营方式。</em></p>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1616934470066.png" alt="" loading="lazy"></figure>
 <div style="margin-top:50px"></div>
 <h2 id="前期准备-制定访谈大纲">前期准备-制定访谈大纲</h2>
@@ -218,12 +224,12 @@
 <img src="https://xiaoxinzz.github.io/post-images/1616930849960.png" alt="" loading="lazy"></p>
 <div style="margin-top:100px"></div>
 <h2 id="绘制体验地图归纳痛点">绘制体验地图归纳痛点</h2>
-<p>根据用户身份拆分体验路径后，可将收集到的问题归纳到不同身份角色下的相应节点，以便更清晰的了解用户遇到的问题。</p>
-<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617354502792.png" alt="" loading="lazy"></figure>
+<p>根据用户身份拆分体验路径后，可将收集到的问题归纳到相应节点，以便更清晰的了解用户遇到的问题。</p>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617682527788.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="需求管理">需求管理</h2>
 <p>寻求优先级、效率、成本的最优解<br>
-<img src="https://xiaoxinzz.github.io/post-images/1616934712816.png" alt="" loading="lazy"></p>
+<img src="https://xiaoxinzz.github.io/post-images/1617682593725.png" alt="" loading="lazy"></p>
 <div style="margin-top:100px"></div>
 <h2 id="增加模板编辑自由度">增加模板编辑自由度</h2>
 <p>增加指示线功能，让用户可以在视频编辑器对商品的局部进行说明。<br>
@@ -235,7 +241,7 @@
 <figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1616932303723.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="后续规划">后续规划</h2>
-<p>基于用户反馈，总结撰写用户反馈结论<br>
+<p>基于用户反馈，规划后续视频工作<br>
 <img src="https://xiaoxinzz.github.io/post-images/1616932949886.png" alt="" loading="lazy"></p>
 <div style="margin-top:100px"></div>
 ]]></content>
@@ -248,7 +254,7 @@
         <updated>2021-03-07T04:18:16.000Z</updated>
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
 <h2 id="视频素材支持项目">视频素材支持项目</h2>
-<p>为应对主图视频审核变更（全面禁止图片拼接类视频），以及优化羚珑视频展现效果，计划在主图视频场景为用户提供支持上传视频素材功能。</p>
+<p>为应对主图视频审核变更（图片拼接类低质量视频审核不通过），以及优化羚珑视频展现效果，计划在主图视频场景为用户提供支持上传视频素材功能。</p>
 <div class="post-meta" style="display: flex;line-height:40px;">
     <style>.post-meta-box{ flex: 1;}</style>
     <div class="post-meta-box post-meta-role">
@@ -265,56 +271,46 @@
 <div style="margin-top:40px"></div>
 <h2 id="项目背景">项目背景</h2>
 <p><span style="color:#515AFF">用户调研结果</span>在2020年10月我进行的用户调研中发现，55.6%的用户期望有视频素材拼接功能，位列第一<br>
-<span style="color:#515AFF">审核规则变更</span>在2020年4月主图视频审核规则变更：全面禁止图片拼接类低质量视频<br>
+<span style="color:#515AFF">审核规则变更</span>主图视频审核规则变更：图片拼接类低质量视频审核不通过<br>
 <span style="color:#515AFF">优化视频效果</span>进一步优化羚珑视频的结果表现，提高视频展示质量</p>
 <div style="margin-top:50px"></div>
 <h2 id="项目目标">项目目标</h2>
-<p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。<br>
-<img src="https://xiaoxinzz.github.io/post-images/1615203958279.png" alt="" loading="lazy"></p>
-<div style="margin-top:50px"></div>
+<p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。</p>
+<div style="margin-top:100px"></div>
+<h2 id="目标用户">目标用户</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617683021485.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h2 id="设计策略">设计策略</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617683080241.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
 <h2 id="项目难点">项目难点</h2>
-<p><span style="color:#515AFF">时间紧张</span>2020年10月底开始做需求调研，1月初需要完成开发并上线<br>
+<p><span style="color:#515AFF">时间紧张</span>2020年11月开始做需求调研，1月需要完成第一版开发并上线<br>
 <span style="color:#515AFF">技术限制</span>涉及前后台编辑器的改造，需要对视频进行实时渲染，开发预研难度大<br>
 <span style="color:#515AFF">交互复杂</span>涉及前后台编辑器的改造，交互较为复杂，并且需要支持后续视频素材编辑能力拓展</p>
-<div style="margin-top:40px"></div>
-<h2 id="应对策略">应对策略</h2>
-<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1615378065164.png" alt="" loading="lazy"></figure>
-<div style="margin-top:50px"></div>
-<h2 id="目标用户">目标用户</h2>
-<p>这个不清楚是用图片还是代码写</p>
-<div style="margin-top:40px"></div>
-<h2 id="设计策略">设计策略</h2>
-<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1615379223622.png" alt="" loading="lazy"></figure>
-<div style="margin-top:50px"></div>
-<h2 id="可能的支持方案">可能的支持方案</h2>
-<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1615379289340.png" alt="" loading="lazy"></figure>
-<div style="margin-top:50px"></div>
-<h2 id="最终支持方案">最终支持方案</h2>
-<p><span style="color:#515AFF" font-size:26px>Step 1：提供风格较通用的「支持视频素材」模板给用户选择，这批模板中的部分场景/坑位专为适配视频素材设计</span><br>
-支持替换视频、视频素材只支持连续片段、视频支持简单调整</p>
-<p><span style="color:#515AFF" font-size:26px>Step 2：前台编辑器用户填入视频素材时，支持选择多段视频选择片段剪辑拼接</span><br>
-支持上传多段视频、视频支持复杂调整</p>
-<p><span style="color:#515AFF" font-size:26px>Step 3：让视频模板中的部分场景支持视频素材/图片素材之间的切换</span><br>
-支持两种素材模式切换选择<br>
-<img src="https://xiaoxinzz.github.io/post-images/1615379341234.png" alt="" loading="lazy"></p>
-<div style="margin-top:50px"></div>
+<div style="margin-top:100px"></div>
+<h2 id="分期方案">分期方案</h2>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1617683441312.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
 <h2 id="流程图">流程图</h2>
 <figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1615379424266.png" alt="" loading="lazy"></figure>
-<div style="margin-top:50px"></div>
+<div style="margin-top:100px"></div>
+<h2 id="后台编辑器">后台编辑器</h2>
+<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1617690790497.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
 <h2 id="前台编辑器-替换素材">前台编辑器-替换素材</h2>
 <p>用户可以通过本地上传或者素材库的视频进行视频素材的替换<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379081679.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379086525.png" alt="" loading="lazy"></p>
-<div style="margin-top:50px"></div>
+<div style="margin-top:100px"></div>
 <h2 id="前台编辑器-视频编辑">前台编辑器-视频编辑</h2>
 <p>用户可以对视频片段进行简单的编辑，例如裁剪功能。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379022260.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615379028114.png" alt="" loading="lazy"></p>
-<div style="margin-top:50px"></div>
+<div style="margin-top:100px"></div>
 <h2 id="后台编辑器-适配逻辑">后台编辑器-适配逻辑</h2>
 <p><img src="https://xiaoxinzz.github.io/post-images/1615377881983.png" alt="" loading="lazy"><br>
 <img src="https://xiaoxinzz.github.io/post-images/1615377887064.png" alt="" loading="lazy"></p>
-<div style="margin-top:50px"></div>
+<div style="margin-top:100px"></div>
 <h2 id="界面展示">界面展示</h2>
 ]]></content>
     </entry>
