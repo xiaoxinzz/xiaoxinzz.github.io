@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-06T08:10:13.720Z</updated>
+    <updated>2021-04-06T13:07:00.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -278,10 +278,10 @@
 <p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。</p>
 <div style="margin-top:100px"></div>
 <h2 id="目标用户">目标用户</h2>
-<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617683021485.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617714276576.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="设计策略">设计策略</h2>
-<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617683080241.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617714237673.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="项目难点">项目难点</h2>
 <p><span style="color:#515AFF">时间紧张</span>2020年11月开始做需求调研，1月需要完成第一版开发并上线<br>
@@ -417,6 +417,10 @@
 <h2 id="概念视频">概念视频</h2>
 <p>我使用framer, sketchfab, Primiere制作概念视频，使用adobeXD制作可交互原型。<br>
 <img src="https://xiaoxinzz.github.io/post-images/1617022745956.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<div class="container" style="text-align: center;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV17b4y1X7Yg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
+</div>
 <div style="margin-top:100px"></div>
 ]]></content>
     </entry>
