@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-06T13:07:00.919Z</updated>
+    <updated>2021-04-07T07:11:52.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -278,7 +278,7 @@
 <p>为用户提供【视频素材拼接】功能，符合主图视频审核规则，树立用户对羚珑的品牌信心。提高羚珑视频的展示效果和质量，提升使用率。</p>
 <div style="margin-top:100px"></div>
 <h2 id="目标用户">目标用户</h2>
-<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617714276576.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617769563956.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="设计策略">设计策略</h2>
 <figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617714237673.png" alt="" loading="lazy"></figure>
@@ -289,7 +289,7 @@
 <span style="color:#515AFF">交互复杂</span>涉及前后台编辑器的改造，交互较为复杂，并且需要支持后续视频素材编辑能力拓展</p>
 <div style="margin-top:100px"></div>
 <h2 id="分期方案">分期方案</h2>
-<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1617683441312.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1617769932851.png" alt="" loading="lazy"></figure>
 <div style="margin-top:100px"></div>
 <h2 id="流程图">流程图</h2>
 <figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1615379424266.png" alt="" loading="lazy"></figure>
