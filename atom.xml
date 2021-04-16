@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-13T10:17:03.452Z</updated>
+    <updated>2021-04-16T09:59:28.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -329,7 +329,7 @@
         <id>https://xiaoxinzz.github.io/post/wildlife-adventure/</id>
         <link href="https://xiaoxinzz.github.io/post/wildlife-adventure/">
         </link>
-        <updated>2021-03-03T13:03:02.000Z</updated>
+        <updated>2021-03-05T13:03:02.000Z</updated>
         <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
 <h2 id="概览">概览</h2>
 <p><span style="color:#515AFF">如何设计一个儿童适用的动物园参观体验？</span><br>
@@ -421,6 +421,97 @@
 <div class="container" style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?bvid=BV17b4y1X7Yg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
 </div>
+<div style="margin-top:100px"></div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APC艺术项目协作系统]]></title>
+        <id>https://xiaoxinzz.github.io/post/apc/</id>
+        <link href="https://xiaoxinzz.github.io/post/apc/">
+        </link>
+        <updated>2021-03-04T04:20:28.000Z</updated>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<div style="margin-top:50px"></div>
+<div style="color: #515AFF;font-size: 18px;font-weight:500;margin-top: 10px;margin-bottom: 10px;">什么是APC</div>
+APC（艺术项目协作系统）是为网易公司游戏工作室，美术组和供应商提供的平台。因为旧版本不符合新的业务需求，我在整个团队中的支持下完成该项目的重新迭代。 新版本于2016年10月更新。
+<div style="margin-top:40px"></div>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>交互设计</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2016.10-2017.08</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
+<h2 id="项目挑战">项目挑战</h2>
+<p>因为dashboard所涉及的项目、部门、人员在稳步增长，公司希望重新设计dashboard，旨在提高工作效率。 更重要的是，dashboard需要全新的交互和视觉设计，以获得更好的用户体验。</p>
+<div style="margin-top:100px"></div>
+<h2 id="项目成果">项目成果</h2>
+<p>重新设计了新的dashboard，可以促进工作室、美术组和供应商之间的协同合作，增加工作透明度和协作度，加快了工作流程，缩短每个步骤所需要的时间。将项目管理工作集结在一个平台，有助于将整个项目管理形成闭环，提高工作效率。</p>
+<p>在完成了dashboard的设计后，因为考虑到移动办公、出差/休假不能及时操作自己相关的任务单，从而影响任务单流转的情况，我为部分重要功能设计了移动端的原型。</p>
+<div style="margin-top:100px"></div>
+<h2 id="设计过程">设计过程</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1618486634824.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h2 id="战略层">战略层</h2>
+<p>在战略层部分，主要是为了弄清楚产品目标和用户目标，为下一步得出功能需求设计做铺垫。主要包括产品需求对接，旧版本分析，目标用户分析，用户流程梳理，以及用户体验地图。</p>
+<div style="margin-top:100px"></div>
+<h3 id="旧系统的设计">旧系统的设计</h3>
+<p>原有的系统如下图所示。经过分析，发现有一些明显的缺陷。<br>
+1、功能分散<br>
+2、数据陈列，无可视化<br>
+3、信息架构混乱<br>
+4、信息展示冗余<br>
+5、业务需求不满足</p>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1618487953218.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h3 id="用户群体">用户群体</h3>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1618487620035.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h3 id="用户流程">用户流程</h3>
+<p>用户流程主要是根据项目需求进行分类，分别分为内包流程和外包流程。下面分别介绍最主要的内包流程和外包流程。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618488086038.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<figure data-type="image" tabindex="4"><img src="https://xiaoxinzz.github.io/post-images/1618488146810.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h3 id="用户旅程图">用户旅程图</h3>
+<p>使用用户旅程图识别用户的痛点以及机会点。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618488340477.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h2 id="范围层结构层">范围层&amp;结构层</h2>
+<p>在范围层部分，通过分析产品需求和用户需求，得出设计目标和功能板块。<br>
+在结构层部分，通过前面的战略层和范围层，得出设计的框架结构。</p>
+<div style="margin-top:100px"></div>
+<h3 id="基本工作原理">基本工作原理</h3>
+<p>各职能的工作围绕的任务单展开，在完成制作任务时，部分职能同时进行人员、质量、进度的管理。整个需求完成形成一个闭环。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618488428414.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h3 id="主要功能模块">主要功能模块</h3>
+<p>在对用户场景进行分类后，我发现项目管理系统应该集中在以下的功能模块。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618541424460.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h3 id="功能框架">功能框架</h3>
+<figure data-type="image" tabindex="5"><img src="https://xiaoxinzz.github.io/post-images/1618541484957.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h2 id="范围层结构层-2">范围层&amp;结构层</h2>
+<p>在范围层部分，通过分析产品需求和用户需求，得出设计目标和功能板块。<br>
+在结构层部分，通过前面的战略层和范围层，得出设计的框架结构。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618546689115.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h3 id="用户测试和迭代">用户测试和迭代</h3>
+<p>上线前：使用原型进行专家用户测试，并完善设计。<br>
+上线后：收集用户的意见和建议，进一步迭代设计。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618546764672.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h3 id="手机版本">手机版本</h3>
+<p>因为考虑到移动办公、出差/休假不能及时操作自己相关的任务单，从而影响任务单流转的情况，为部分重要功能设计了移动端的原型。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1618546134251.png" alt="" loading="lazy"></p>
 <div style="margin-top:100px"></div>
 ]]></content>
     </entry>
