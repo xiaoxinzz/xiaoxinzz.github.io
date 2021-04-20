@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-04-20T01:18:55.639Z</updated>
+    <updated>2021-04-20T02:39:15.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -654,8 +654,8 @@ APC（艺术项目协作系统）是为网易公司游戏工作室，美术组�
 <div style="margin-top:40px"></div>
 <hr>
 <div style="margin-top:40px"></div>
-<h2 id="目标用户">目标用户</h2>
-<p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
+<h2 id="项目成果">项目成果</h2>
+<p>基于地图api，创建交互式平台，让用户了解街道命名的特征以及关系。</p>
 <div style="margin-top:50px"></div>
 <h2 id="设计过程">设计过程</h2>
 <figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617193255961.png" alt="" loading="lazy"></figure>
