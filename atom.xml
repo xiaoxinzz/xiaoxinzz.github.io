@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-06-23T07:45:49.670Z</updated>
+    <updated>2021-06-24T12:39:10.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -320,6 +320,106 @@
 <h2 id="视频模板展示">视频模板展示</h2>
 <div class="container" style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?bvid=BV1rV411n744&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
+</div>
+<div style="margin-top:100px"></div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildlife Adventure]]></title>
+        <id>https://xiaoxinzz.github.io/post/wildlife-adventure/</id>
+        <link href="https://xiaoxinzz.github.io/post/wildlife-adventure/">
+        </link>
+        <updated>2021-03-05T13:03:02.000Z</updated>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<h2 id="概览">概览</h2>
+<p><span style="color:#515AFF">如何设计一个儿童适用的动物园参观体验？</span><br>
+--如何通过以用户为中心的设计，为动物园的儿童参观者创造新颖的体验，从而实现有意义的参与并且鼓励儿童多关注生态环境和保护生态环境的参观体验？</p>
+<div style="margin-top:40px"></div>
+<h2 id="最终概念">最终概念</h2>
+<p>Wildlife Adventure是为10-12岁的儿童设计的体验，通过增强现实的技术，该体验能够使孩子发现有关动物的新信息，并获得关于人类行为如何影响不同生态系统的崭新视角。</p>
+<div style="margin-top:50px"></div>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>个人项目</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2019.05-2019.08</span>
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
+<h2 id="项目概述">项目概述</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617020851463.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h2 id="设计过程">设计过程</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617020859385.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h3 id="背景调研">背景调研</h3>
+<h4 id="问卷调查">问卷调查</h4>
+<p>我发起了问卷调查，得出的参观者的主要信息如下：<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617020929482.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h4 id="用户访谈">用户访谈</h4>
+<p>在网上查阅了关于动物园的体验后，我在动物园开展了我的研究，我注意到四个主要的问题。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617020949010.png" alt="" loading="lazy"></p>
+<div style="margin-top:40px"></div>
+<h4 id="资料调研">资料调研</h4>
+<p>经过关于小学教育的资料调研，我更好地了解吸引孩子的学习方法和技巧。一些要点包括：<br>
+<span style="color:#515AFF; text-aglin:center;"><br>
+1、为不同类型的学习者提供各种入口点，例如，视觉的、触觉的和听觉的。<br>
+2、使用开放式问题来促进对话。<br>
+3、允许虚构和角色扮演。<br>
+4、使用游戏性元素吸引注意力和提高参与度。<br>
+</span></p>
+<div style="margin-top:100px"></div>
+<h3 id="概念设计">概念设计</h3>
+<h4 id="设计原则">设计原则</h4>
+<p>在分析了我从问卷调查、用户访谈和资料调研后，我推导了以下的设计原则来帮助项目的建立。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021195958.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h4 id="发展概念">发展概念</h4>
+<figure data-type="image" tabindex="3"><img src="https://xiaoxinzz.github.io/post-images/1617021258289.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h4 id="互动内容构想">互动内容构想</h4>
+<p>基于以上的设计原则，调研的内容，得出以下的互动内容的想法。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1615452879573.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h4 id="呈现的形式">呈现的形式</h4>
+<p>我提出了几个关于探索的呈现形式的想，最终决定载体是手持的AR设备。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617023019057.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h4 id="最终概念-2">最终概念</h4>
+<p>低保真交互流程图<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021310372.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<p>高保真交互图<br>
+总体分成4个模块，分别是探索、学习、照相和娱乐。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021331705.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<p><span style="color:#515AFF" >探索模块 </span><br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021347786.png" alt="" loading="lazy"><br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021834180.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<p><span style="color:#515AFF" >学习模块 </span><br>
+<img src="https://xiaoxinzz.github.io/post-images/1617022440163.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<p><span style="color:#515AFF" >拍照模块 </span><br>
+<img src="https://xiaoxinzz.github.io/post-images/1617022447389.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<p><span style="color:#515AFF" >娱乐模块 </span><br>
+孩子们扮演动物园管理员的角色，负责照顾动物。可以看到其他朋友的动物照顾积分排行榜。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617021412074.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h2 id="概念视频">概念视频</h2>
+<p>我使用framer, sketchfab, Primiere制作概念视频，使用adobeXD制作可交互原型。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617022745956.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<div class="container" style="text-align: center;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV17b4y1X7Yg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
 </div>
 <div style="margin-top:100px"></div>
 ]]></content>
