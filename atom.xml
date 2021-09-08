@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoxinzz.github.io</id>
     <title>张晓欣</title>
-    <updated>2021-06-27T10:37:37.390Z</updated>
+    <updated>2021-09-08T11:44:40.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoxinzz.github.io"/>
     <link rel="self" href="https://xiaoxinzz.github.io/atom.xml"/>
@@ -624,6 +624,49 @@ APC（艺术项目协作系统）是为网易公司游戏工作室，美术组�
 <div class="container" style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?bvid=BV1hK4y1D7Xv&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; height: 500px"> </iframe>
 </div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港街道命名]]></title>
+        <id>https://xiaoxinzz.github.io/post/xiang-gang-jie-dao-ming-ming/</id>
+        <link href="https://xiaoxinzz.github.io/post/xiang-gang-jie-dao-ming-ming/">
+        </link>
+        <updated>2021-03-02T03:57:47.000Z</updated>
+        <content type="html"><![CDATA[<div id="dontShowPostTitle"></div>
+<div style="margin-top:40px"></div>
+<h2 id="项目介绍">项目介绍</h2>
+<p>该项目旨在创建一个交互式平台，允许用户发现探索香港街道命名和香港历史、文化之间的关系。</p>
+<div class="post-meta" style="display: flex;line-height:40px;">
+    <style>.post-meta-box{ flex: 1;}</style>
+    <div class="post-meta-box post-meta-role">
+    <strong>My role</strong>
+    <span>个人项目</span>
+    </div>
+    <div class="post-meta-box post-meta-timeline">
+    <strong>Timeline</strong>
+    <span>2019.02-2019.05</span>
+    </div>
+    <div class="post-meta-box post-meta-link-view">
+     <style>a.pdf-link:hover {border: 2px solid #6269FE !important;background: #6269FE;text-decoration: none;color: #ffffff !important;}</style>
+    <a class="pdf-link" style="width: 120px;border: 2px solid #9090ec;display: inline-block;text-align: center;font-size:14px; color:#6269FE;" target="_blank" href="https://playground.eca.ed.ac.uk/~s1879055/streets/streets.html ">浏览线上网页</a >
+    </div>
+</div>
+<div style="margin-top:40px"></div>
+<hr>
+<div style="margin-top:40px"></div>
+<h2 id="项目成果">项目成果</h2>
+<p>基于地图api，创建交互式平台，让用户了解街道命名的特征以及关系。</p>
+<div style="margin-top:50px"></div>
+<h2 id="设计过程">设计过程</h2>
+<figure data-type="image" tabindex="1"><img src="https://xiaoxinzz.github.io/post-images/1617193255961.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
+<h2 id="关键问题">关键问题</h2>
+<p>街道名称讲述了生活的故事。他们告诉我们一些关于当地人如何工作和生活。他们信奉什么，不相信什么。每个街道的名字都揭示了香港人民的生活和态度。几个世纪以来，香港已经发生了巨大变化。了解街道命名的由来有助于了解香港市民喜欢记住的事情和他们已经遗忘了的事情。香港街道的历史变化和以男性和女性的命名的街道数量都可以对这个城市的特性进行窥探。<br>
+<img src="https://xiaoxinzz.github.io/post-images/1617193263959.png" alt="" loading="lazy"></p>
+<div style="margin-top:100px"></div>
+<h2 id="界面设计">界面设计</h2>
+<figure data-type="image" tabindex="2"><img src="https://xiaoxinzz.github.io/post-images/1617193270856.png" alt="" loading="lazy"></figure>
+<div style="margin-top:100px"></div>
 ]]></content>
     </entry>
 </feed>
